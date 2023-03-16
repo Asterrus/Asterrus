@@ -1,1 +1,3 @@
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/3F3I" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div id="header" align="center">
+  <img src="https://i.gifer.com/3F3I.gif" width="100"/>
+</div>
