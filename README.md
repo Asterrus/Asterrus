@@ -18,7 +18,9 @@
 
 
 ### :man_technologist: About Me :
-I am a Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br>                                                 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br>
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: I am currently studying
 FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Java" alt="Java" width="20" height="20"/>,
