@@ -8,7 +8,7 @@
     <img src="gifs/1.gif" width="30" height="30" alt="LinkedIn Badge"/>
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=asterrus&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=asterrus&style=for-the-badge&color=blue" alt=""/>
 </div>
   <h1>
   hey there
