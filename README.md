@@ -1,3 +1,5 @@
+<div align="center">
+<img src="./666_2.gif" width="300" height="300"> <br>
 <div id="badges">
   <a href="www.linkedin.com/in/dyachuk-roman">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,6 +33,5 @@
 <div align="center">
 <img src="./yy3.gif" width="300" height="300">
 </div>
-<div align="center">
-<img src="./666_2.gif" width="300" height="300"> <br>
+
 
