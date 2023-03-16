@@ -1,3 +1,2 @@
-<img src="https://i.gifer.com/yy3.gif" width="40" height="40" />
-
+![alt-text]([link](https://github.com/Asterrus/Asterrus/blob/main/yy3.gif))
 
