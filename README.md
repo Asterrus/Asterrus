@@ -1,4 +1,2 @@
 
-![alt text](./yy3.gif =250x250)
-
-<img src="./yy3.gif" width="100" height="100">
+<img src="./yy3.gif" width="200" height="200">
