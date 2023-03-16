@@ -20,7 +20,7 @@
 ### :man_technologist: About Me :
 I am a Backend Python Developer <img src="gifs/pyth.gif" width="30">.<br>
 
-- :telescope: I created websites and api services in Django <img src="img/django-plain-wordmark.svg" title="Java" alt="Java" width="20" height="20"/>
+- :telescope: I created websites and api services in Django <img src="img/django-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 
 - :seedling: I am currently studying
 FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Java" alt="Java" width="20" height="20"/>,
