@@ -1,4 +1,4 @@
-<div align="center"">
+<div align="center">
 <img src="gifs/666_2.gif" width="250" height="250"> <br>
 <div id="badges">
   <a href="www.linkedin.com/in/dyachuk-roman">
@@ -14,6 +14,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 </div>
 ### :man_technologist: About Me :
 I am a Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.                                                                                    
