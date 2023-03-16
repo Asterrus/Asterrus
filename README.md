@@ -1,10 +1,10 @@
 <div align="center">
 <img src="gifs/666_2.gif" width="250" height="250"> <br>
 <div id="badges">
-  <a href="www.linkedin.com/in/dyachuk-roman">
+  <a href="https://www.linkedin.com/in/dyachuk-roman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.linkedin.com/in/dyachuk-roman">
+  <a href="https://www.linkedin.com/in/dyachuk-roman">
     <img src="gifs/1.gif" width="30" height="30" alt="LinkedIn Badge"/>
   </a>
   <br>
@@ -24,7 +24,7 @@ I am a Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :zap: In my free time, I solve problems on LeetCode. [![LeetCode user gastursolar](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgastursolar&logo=leetcode&logoColor=yellow)](https://leetcode.com/gastursolar/)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dyachuk-roman)                               
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyachuk-roman)                               
 <div id="stack">
   <img src="gifs//222.gif" width="100" height="100"> Мой стек:      
 </div>
