@@ -23,5 +23,5 @@
 <img src="./666_2.gif" width="300" height="300">
 </div>
 <div align="center">
-<img src="./223.gif" width="300" height="300">
+<img src="./222.gif" width="300" height="300">
 </div>
