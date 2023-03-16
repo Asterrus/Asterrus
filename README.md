@@ -1,3 +1,3 @@
 
-![alt text](./yy3.gif | align=center)
+![alt text](./yy3.gif | align="center")
 
