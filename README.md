@@ -16,9 +16,9 @@
 </h1>
 </div>
 
+<img src="gifs/Night Moves by Valenberg on DeviantArt.gif" width="1000" height="180">
 
-
-<h3 valign="center"> <img src="gifs//6.gif" width="70" height="70"> About Me :</h3>
+### :man_technologist: About Me :
 
 I am a Backend Python Developer <img src="gifs/pyth.gif" width="30">.<br>
 
