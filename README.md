@@ -15,22 +15,22 @@
 
 
 <div id="all_gif">
-<div align="center">
+<div>
 <img src="./10_1.gif" width="300" height="300">
 </div>
-<div align="center">
+<div>
 <img src="./11.gif" width="300" height="300">
 </div>
-<div align="center">
+<div>
 <img src="./123.gif" width="300" height="300">
 </div>
-<div align="center">
+<div>
 <img src="./133.gif" width="300" height="300">
 </div>
-<div align="center">
+<div>
 <img src="./6.gif" width="300" height="300">
 </div>
-<div align="center">
+<div>
 <img src="./yy3.gif" width="300" height="300">
 </div>
 </div>
