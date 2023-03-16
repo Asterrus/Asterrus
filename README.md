@@ -2,19 +2,20 @@
 <img src="gifs/666_2.gif" width="300" height="300"> <br>
 <div id="badges">
   <a href="www.linkedin.com/in/dyachuk-roman">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="www.linkedin.com/in/dyachuk-roman">
-  <img src="gifs/1.gif" width="30" height="30" alt="LinkedIn Badge"/>
+    <img src="gifs/1.gif" width="30" height="30" alt="LinkedIn Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=asterrus&style=flat-square&color=blue" alt=""/>
 </div>
-</div>
-<h1>
+  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
+
 
 <!--
 <div id="all_gif">
