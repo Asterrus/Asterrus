@@ -18,7 +18,7 @@
 
 
 ### :man_technologist: About Me :
-I am a Backend Python Developer <img src="img/pyth_1.png" width="30">.<br>
+I am a Backend Python Developer <img src="img/pyth.gif" width="30">.<br>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
