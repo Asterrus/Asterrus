@@ -20,7 +20,9 @@
 ### :man_technologist: About Me :
 I am a Backend Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.<br>                                                 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am currently studying
+FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Java" alt="Java" width="20" height="20"/>,
+and Redis <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Java" alt="Java" width="20" height="20"/>
 
 - :zap: In my free time, I solve problems on LeetCode. [![LeetCode user gastursolar](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgastursolar&logo=leetcode&logoColor=yellow)](https://leetcode.com/gastursolar/)
 
