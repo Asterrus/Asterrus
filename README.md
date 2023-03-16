@@ -23,7 +23,7 @@
     My name is Roman and I am Backend Python Developer <img src="gifs/pyth.gif" width="30"></h4><br>
 </div>
 
-- :telescope: I created websites and api services in Django and DRF <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Java" alt="Java" width="20" height="20"/>
+- :telescope: I created websites and API services in Django(DRF) <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Java" alt="Java" width="20" height="20"/>
 
 - :seedling: I am currently studying
 FastAPI <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="Java" alt="Java" width="20" height="20"/>,
