@@ -7,6 +7,7 @@
   <a href="www.linkedin.com/in/dyachuk-roman">
   <img src="gifs/1.gif" width="30" height="30" alt="LinkedIn Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=asterrus&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 
