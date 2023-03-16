@@ -1,3 +1,3 @@
 
-![alt text](./yy3.gif = 250x250)
+![alt text](./yy3.gif =250x250)
 
