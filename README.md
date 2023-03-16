@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="www.linkedin.com/in/dyachuk-roman">
-  <img src="./1.gif" width="50" height="50" alt="LinkedIn Badge"/>
+  <img src="./1.gif" width="40" height="40" alt="LinkedIn Badge"/>
   </a>
 </div>
 </div>
