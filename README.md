@@ -3,7 +3,7 @@
     <tr>
         <td style="width: 50%;">
           <div align="center">
-          <img src="gifs/666_2.gif" width="400" height="400"> <br>
+          <img src="gifs/666_2.gif" width="300" height="300"> <br>
           <div id="badges">
             <a href="https://www.linkedin.com/in/dyachuk-roman">
               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
