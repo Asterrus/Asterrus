@@ -1,3 +1,3 @@
 
-![alt text](./yy3.gif | width=100)
+![alt text](./yy3.gif)
 
