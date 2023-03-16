@@ -16,8 +16,10 @@
 </h1>
 </div>
 
-
-### :man_technologist: About Me :
+<div>
+<img src="gifs//6.gif" width="100" height="100">
+About Me :
+</div>
 I am a Backend Python Developer <img src="gifs/pyth.gif" width="30">.<br>
 
 - :telescope: I created websites and api services in Django and DRF <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Java" alt="Java" width="20" height="20"/>
@@ -43,7 +45,7 @@ and Redis <img src="https://github.com/devicons/devicon/blob/master/icons/redis/
 <div>
 <img src="gifs//123.gif" width="100" height="100">
 <img src="gifs//133.gif" width="100" height="100">
-<img src="gifs//6.gif" width="100" height="100">
+
 </div>
 <div>
 <img src="gifs//yy3.gif" width="100" height="100">
