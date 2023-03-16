@@ -1,4 +1,4 @@
-<div align="center" vertical-align:top>
+<div align="center" vertical-align="top">
 <img src="gifs/666_2.gif" width="300" height="300"> <br>
 <div id="badges">
   <a href="www.linkedin.com/in/dyachuk-roman">
