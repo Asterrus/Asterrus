@@ -9,12 +9,13 @@
   </a>
 </div>
 </div>
-<div align="center">
-<img src="./222.gif" width="300" height="300">
-</div>
+
 
 
 <div id="all_gif">
+<div>
+<img src="./222.gif" width="300" height="300">
+</div>
 <div>
 <img src="./10_1.gif" width="300" height="300">
 </div>
