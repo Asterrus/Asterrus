@@ -15,12 +15,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-
+<div id="stack">
+  <img src="gifs//222.gif" width="100" height="100"> Мой стек:      
+</div>
 
 
 <div id="all_gif">
 <div align="left">
-<img src="gifs//222.gif" width="100" height="100">
+
 <img src="gifs//10_1.gif" width="100" height="100">
 <img src="gifs//11.gif" width="100" height="100">
 </div>
