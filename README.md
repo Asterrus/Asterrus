@@ -16,10 +16,10 @@
 </h1>
 </div>
 
-<div>
+
 <img src="gifs//6.gif" width="30" height="30">
-  <h3>About Me :</h3>
-</div>
+<h3>About Me :</h3>
+
 I am a Backend Python Developer <img src="gifs/pyth.gif" width="30">.<br>
 
 - :telescope: I created websites and api services in Django and DRF <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Java" alt="Java" width="20" height="20"/>
