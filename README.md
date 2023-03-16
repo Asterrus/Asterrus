@@ -1,2 +1,2 @@
-![alt text](blob/main/yy3.gif)
+![alt text](./yy3.gif)
 
