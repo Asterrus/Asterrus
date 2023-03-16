@@ -1,2 +1,2 @@
-![alt text](Asterrus/blob/main/yy3.gif)
+![alt text](blob/main/yy3.gif)
 
