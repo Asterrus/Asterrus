@@ -16,17 +16,11 @@
 <div align="left">
 <img src="./222.gif" width="300" height="300">
 <img src="./10_1.gif" width="300" height="300">
-</div>
-<div>
 <img src="./11.gif" width="300" height="300">
 </div>
 <div>
 <img src="./123.gif" width="300" height="300">
-</div>
-<div>
 <img src="./133.gif" width="300" height="300">
-</div>
-<div>
 <img src="./6.gif" width="300" height="300">
 </div>
 <div>
