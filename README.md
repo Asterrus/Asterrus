@@ -1,11 +1,6 @@
 <table>
     <tbody>
     <tr>
-      <td class="head" colspan="2">
-          hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </td>
-    </tr>
-    <tr>
         <td style="width: 50%;">
           <div align="center">
           <img src="gifs/666_2.gif" width="400" height="400"> <br>
@@ -19,12 +14,13 @@
             <br>
             <img src="https://komarev.com/ghpvc/?username=asterrus&style=for-the-badge&color=blue" alt=""/>
           </div>
+          </div>
         </td>
-        <td style="width: 50%;">
+     <td style="width: 50%;">
 
 <div id="about" align="center"> 
-About Me:<br>
-I am a Backend Python Developer <img src="gifs/pyth.gif" width="30">.<br>
+    <h3>About Me:<br>
+    I am a Backend Python Developer <img src="gifs/pyth.gif" width="30"></h3>.<br>
 </div>
 
 - :telescope: I created websites and api services in Django and DRF <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Java" alt="Java" width="20" height="20"/>
@@ -36,9 +32,6 @@ and Redis <img src="https://github.com/devicons/devicon/blob/master/icons/redis/
 - :zap: In my free time, I solve problems on LeetCode. [![LeetCode user gastursolar](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgastursolar&logo=leetcode&logoColor=yellow)](https://leetcode.com/gastursolar/)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyachuk-roman)                               
-          <div id="stack">
-            <img src="gifs//222.gif" width="100" height="100"> Мой стек:      
-          </div>
         </td>
     </tr>
     <tr>
@@ -70,5 +63,4 @@ and Redis <img src="https://github.com/devicons/devicon/blob/master/icons/redis/
         <td class="last" colspan="2">Finish</td>
     </tr>
 </tbody></table>
-
 
