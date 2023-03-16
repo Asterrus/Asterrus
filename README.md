@@ -1,3 +1,3 @@
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://i.gifer.com/yy3.gif" width="40" height="40" />
 
 
