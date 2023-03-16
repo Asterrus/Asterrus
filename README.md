@@ -14,7 +14,7 @@
 </div>
 
 
-
+<div id="all_gif">
 <div align="center">
 <img src="./10_1.gif" width="300" height="300">
 </div>
@@ -33,5 +33,5 @@
 <div align="center">
 <img src="./yy3.gif" width="300" height="300">
 </div>
-
+</div>
 
