@@ -17,8 +17,8 @@
 </div>
 
 <div>
-<img src="gifs//6.gif" width="100" height="100">
-About Me :
+<img src="gifs//6.gif" width="30" height="30">
+  <h3>About Me :</h3>
 </div>
 I am a Backend Python Developer <img src="gifs/pyth.gif" width="30">.<br>
 
