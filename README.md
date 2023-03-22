@@ -9,7 +9,7 @@
               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
             </a>
             <a href="https://www.linkedin.com/in/dyachuk-roman">
-              <img src="gifs/1.gif" width="42" height="42" alt="LinkedIn Badge"/>
+              <img src="gifs/1.gif" width="30" height="30" alt="LinkedIn Badge"/>
             </a>
             <br>
             <img src="https://komarev.com/ghpvc/?username=asterrus&style=for-the-badge&color=blue" alt=""/>
