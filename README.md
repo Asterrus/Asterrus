@@ -31,7 +31,7 @@ and Redis <img src="https://github.com/devicons/devicon/blob/master/icons/redis/
 
 - :zap: In my free time, I solve problems on LeetCode. [![LeetCode user gastursolar](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fgastursolar&logo=leetcode&logoColor=yellow)](https://leetcode.com/gastursolar/)
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyachuk-roman)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dyachuk-roman) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/doomeagle)
         <div>
         Languages and Tools:<br><br>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
